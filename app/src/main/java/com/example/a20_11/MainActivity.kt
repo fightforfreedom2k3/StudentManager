@@ -10,11 +10,11 @@ class MainActivity : AppCompatActivity() {
 
     // Danh sách sinh viên
     val students = mutableListOf(
-        StudentModel("Nguyễn Văn An", "SV001"),
-        StudentModel("Trần Thị Bảo", "SV002"),
-        StudentModel("Lê Hoàng Cường", "SV003"),
-        StudentModel("Phạm Thị Dung", "SV004"),
-        StudentModel("Đỗ Minh Đức", "SV005")
+        StudentModel("Nguyễn Huy Hoàng", "20211012"),
+        StudentModel("Nguyễn Văn A", "20211013"),
+        StudentModel("Nguyễn Văn B", "20211014"),
+        StudentModel("Nguyễn Văn C", "20211015"),
+        StudentModel("Nguyễn Văn D", "20211016")
     )
 
     // Khởi tạo Adapter cho ListView
